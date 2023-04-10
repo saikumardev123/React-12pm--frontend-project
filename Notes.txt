@@ -1,0 +1,14 @@
+Project: E-Commerce Application 
+
+Modules / Scope: 
+
+ Landing Page - Show Products, Show individual product
+ User Management(User) - Registration, Login, Forgot password
+ Product Management (Admin) - Add, Remove, Update, List All Products
+ Order Management -  List All Orders, addToCart- Order
+ Payment Integration(Trail) - RazorPay
+
+ Backend App: Java Application 
+ 
+
+
